@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: "uselagoon/postgres-16"
+    container_name: "homework4"
+    ports:
+      - "5432:5432"
+    environment:
+      - "POSTGRES_USER=root"
+      - "POSTGRES_HOST_AUTH_METHOD=trust"
+      - "POSTGRES_DB=java"
