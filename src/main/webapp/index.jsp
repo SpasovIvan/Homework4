@@ -15,6 +15,7 @@
 <a href="search-prod.jsp">Search Product</a><br>
 <a href="curr-day.jsp">Current Day</a><br>
 <a href="choose-order.jsp">Choose Order</a><br>
+<a href="homework5.jsp"><h3>HOMEWORK 5</h3></a><br>
 
 </body>
 </html>
