@@ -1,6 +1,3 @@
-<%@ page import="com.spasov.homework4.entity.Order" %>
-<%@ page import="com.spasov.homework4.entity.Product" %>
-<%@ page import="java.util.Date" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>

@@ -14,8 +14,8 @@
     <title>Homework 4</title>
 </head>
 <body>
-<a href="/homework5-servlet">homework5-servlet</a><br>
-<a href="/index.jsp">На главную</a><br>
+<a href="homework5-servlet">homework5-servlet</a><br>
+<a href="index.jsp">На главную</a><br>
 ${name}<br>
 ${requestScope.name}<br>
 ${secname}<br>
